@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![webder logo](https://github.com/TxtDot/.github/raw/main/imgs/webder.png)
+  ![webder logo](https://github.com/TempoWorks/.github/raw/main/imgs/webder.png)
   
   # webder
   
